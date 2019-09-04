@@ -4,34 +4,13 @@ h2{
     font-size: 20px;
 }
 
-#Kwadraty{
+#kwadraty{
     width: 400px;
     height: 600px;
     background: gray;
 }
 
-.kwadrat1 {
-    width: 100px;
-    height: 100px;
-    background: orange;
-    margin: 15px;
-}
-
-.kwadrat2 {
-    width: 100px;
-    height: 100px;
-    background: orange;
-    margin: 15px;
-}
-
-.kwadrat3 {
-    width: 100px;
-    height: 100px;
-    background: orange;
-    margin: 15px;
-}
-
-.kwadrat4 {
+.kwadrat {
     width: 100px;
     height: 100px;
     background: orange;
